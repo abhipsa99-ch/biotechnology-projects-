@@ -24,8 +24,26 @@ This repository showcases biotechnology projects completed through academic cour
 - Evaluated production parameters and fuel properties.
 - Assessed biodiesel as a sustainable alternative renewable fuel.
 
-### 4. Genetics & Diabetes
-- 
+### 4. HIV/AIDS Review
+
+Reviewed the following key aspects of HIV/AIDS:
+
+- Structure of HIV
+- Mode of Action (Pathogenesis)
+- Transmission
+- Incubation Period
+- Clinical Signs and Symptoms
+- Effects on the Immune System
+- Renal Complications
+- Diagnostic Tests and Laboratory Monitoring
+- Disease Monitoring (CD4 Count, Viral Load, Treatment Response)
+- Antiretroviral Therapy (ART)
+- Classes of Antiretroviral Drugs
+- Drug Mechanisms of Action
+- Drug Resistance
+- Treatment Guidelines and Patient Management
+- Prevention and Infection Control
+  
 
 ### 5. Remicade Manufacturing
 - Studied the manufacturing process of the monoclonal antibody Remicade.
