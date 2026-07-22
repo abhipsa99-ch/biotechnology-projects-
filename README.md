@@ -24,10 +24,8 @@ This repository showcases biotechnology projects completed through academic cour
 - Evaluated production parameters and fuel properties.
 - Assessed biodiesel as a sustainable alternative renewable fuel.
 
-### 4. Disease Detection Using Surface-Enhanced Raman Spectroscopy (SERS)
-- Explored the application of Surface-Enhanced Raman Spectroscopy for sensitive disease detection.
-- Studied molecular fingerprinting and spectral analysis for diagnostic applications.
-- Reviewed the role of nanomaterials in improving detection sensitivity.
+### 4. Genetics & Diabetes
+- 
 
 ### 5. Remicade Manufacturing
 - Studied the manufacturing process of the monoclonal antibody Remicade.
